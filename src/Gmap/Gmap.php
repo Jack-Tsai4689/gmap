@@ -1,4 +1,5 @@
 <?php
+namespace Jack;
 class Gmap
 {
 	private $gmap_key;
